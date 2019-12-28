@@ -399,7 +399,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Dhaval.trivedi.DTSocketTicTacToe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/dhavaltrivedi/Desktop/DTSocketTicTacToe/DTSocketTicTacToe/DTSocketTicTacToe-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/dhavaltrivedi/Desktop/Git Projects/DTSocketTicTacToe/DTSocketTicTacToe/DTSocketTicTacToe-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -418,7 +418,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Dhaval.trivedi.DTSocketTicTacToe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/dhavaltrivedi/Desktop/DTSocketTicTacToe/DTSocketTicTacToe/DTSocketTicTacToe-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/dhavaltrivedi/Desktop/Git Projects/DTSocketTicTacToe/DTSocketTicTacToe/DTSocketTicTacToe-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

@@ -118,8 +118,6 @@ extension GameVC: UICollectionViewDelegate, UICollectionViewDataSource, UICollec
         let Cell = collectionView.dequeueReusableCell(withReuseIdentifier: "Cell", for: indexPath as IndexPath) as! TicCollectionViewCell
         Cell.imgView.image = nil
         Cell.tag = indexPath.item
-        Cell.isUserInteractionEnabled = true
-        Cell.backgroundColor = UIColor.cyan
         return Cell;
     }
     
